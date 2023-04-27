@@ -1,0 +1,34 @@
+{
+  "qiymat": [
+    {
+      "img": "/public/Rectangle.png",
+      "title": "Running shoes for men",
+      "price": "$99",
+      "id": 1
+    },
+    {
+      "img": "/public/Rectangle.png",
+      "title": "Running shoes for men",
+      "price": "$99",
+      "id": 2
+    },
+    {
+      "img": "/public/Rectangle.png",
+      "title": "Running shoes for men",
+      "price": "$99",
+      "id": 3
+    },
+    {
+      "img": "/public/Rectangle.png",
+      "title": "Running shoes for men",
+      "price": "$99",
+      "id": 4
+    },
+    {
+        "img": "/public/Rectangle.png",
+        "title": "Running shoes for men",
+        "price": "$99",
+        "id":5
+      }
+  ]
+}

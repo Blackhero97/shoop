@@ -7,28 +7,29 @@
       "id": 1
     },
     {
-      "img": "/public/Rectangle.png",
+      "img": "/public/card2.png",
       "title": "Running shoes for men",
       "price": "$99",
       "id": 2
     },
     {
-      "img": "/public/Rectangle.png",
+      "img": "/public/card3.png",
       "title": "Running shoes for men",
       "price": "$99",
       "id": 3
     },
     {
-      "img": "/public/Rectangle.png",
+      "img": "/public/card4.png",
       "title": "Running shoes for men",
       "price": "$99",
       "id": 4
     },
     {
-        "img": "/public/Rectangle.png",
-        "title": "Running shoes for men",
-        "price": "$99",
-        "id":5
-      }
+      "img": "/public/card5.png",
+      "title": "Running shoes for men",
+      "price": "$99",
+      "id": 5
+    }
   ]
 }
+
